@@ -10,11 +10,15 @@
 
 Ex)
 
-ABDC →  AACC  
-CCAA    AACC  
-DBBC    BBDD  
-ABDD    BBDD  
-
+ABDC  
+CCAA  
+DBBC  
+ABDD  
+　↓  
+AACC  
+AACC  
+BBDD  
+BBDD  
 なおデバックのため、入力は固定しているが、これらをコメントアウトし、  
 すでにコメントアウトしてる入力用のものを使うことで、任意に入力可能。  
 今後、問題設定として、ABCDの配列を順列で列挙し、ランダムに組み合わせて、問題を作成することも実装したいなと。  
